@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Alan\\Code\\BakeryShop\\BakeryShop\\BakeryShop\\BakeryShop.WebAPI.csproj",
-      "projectName": "BakeryShop.WebAPI",
-      "projectPath": "C:\\Users\\User\\Desktop\\Alan\\Code\\BakeryShop\\BakeryShop\\BakeryShop\\BakeryShop.WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Alan\\Code\\BakeryShop\\BakeryShop\\BakeryShop.Domain\\BakeryShop.Domain.csproj",
+      "projectName": "BakeryShop.Domain",
+      "projectPath": "C:\\Users\\User\\Desktop\\Alan\\Code\\BakeryShop\\BakeryShop\\BakeryShop.Domain\\BakeryShop.Domain.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Alan\\Code\\BakeryShop\\BakeryShop\\BakeryShop\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Alan\\Code\\BakeryShop\\BakeryShop\\BakeryShop.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,9 +54,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

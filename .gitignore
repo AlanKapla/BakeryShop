@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/BakeryShop/v16/.suo
+/BakeryShop/BakeryShop
+/BakeryShop/.vs/BakeryShop/v16/Server/sqlite3/storage.ide-shm
+/BakeryShop/.vs/BakeryShop/v16/Server/sqlite3/storage.ide-wal
+/.vs/VSWorkspaceState.json
